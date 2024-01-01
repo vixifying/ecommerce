@@ -1,0 +1,9 @@
+.breadcrumb {
+  display: flex;
+  gap: 0.5rem;
+  padding: 1rem;
+  align-items: center;
+  columns: #5e5e5e;
+  font-weight: bold;
+  text-transform: capitalize;
+}
